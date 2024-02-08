@@ -13,3 +13,17 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado:**
+
+### Página antes de cambios:
+
+  <img src="antesde.png" alt="Antes de" height="400px">
+
+### FLEXBOX FROGGY
+
+<img src="flexbox.png" alt="flexbox" height="400px" >
+
+### GRID GARDEN
+<img src="Garden.png" alt="Grids" height="400px">
+
+### CSS Kitchen
+<img src="Dinner.png" alt="Grids" height="400px">
